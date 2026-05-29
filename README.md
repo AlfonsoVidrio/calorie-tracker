@@ -1,6 +1,6 @@
 # Calorie Tracker
 
-A web application to track daily calorie intake and exercise, built with React 19, TypeScript, and Tailwind CSS 4.
+A web application to track daily calorie intake and exercise, built with React 19, TypeScript, and Tailwind.
 
 ## Features
 
@@ -14,18 +14,14 @@ A web application to track daily calorie intake and exercise, built with React 1
 
 ## Screenshots
 
-> [!NOTE]
-> Add a screenshot of the app here.
+<img width="1920" height="1327" alt="screencapture" src="https://github.com/user-attachments/assets/0d5e3e21-aca9-4bee-b528-52f78e98978d" />
 
-```
-![App Screenshot](screenshot.png)
-```
 
 ## Tech Stack
 
 - **React 19** with hooks (useReducer, useState, useEffect, useCallback)
 - **TypeScript** strict mode
-- **Tailwind CSS 4** with custom theme and dark mode
+- **Tailwind CSS** with custom theme and dark mode
 - **Vite 8** as build tool
 - **uuid** for unique activity IDs
 - **Heroicons** for icons
@@ -45,8 +41,3 @@ npm run build
 npm run preview
 ```
 
-## Lint
-
-```bash
-npm run lint
-```
